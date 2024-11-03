@@ -3,6 +3,7 @@
 # !pip install streamlit matplotlib numpy
 
 # Step 2: Import necessary libraries
+streamlit run app.py
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
