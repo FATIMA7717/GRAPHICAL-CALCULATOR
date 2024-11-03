@@ -1,4 +1,4 @@
-streamlit run app1.py
+
 # Step 1: Install required libraries
 # Run this command in the terminal to install Streamlit and Matplotlib if they are not already installed.
 # !pip install streamlit matplotlib numpy
